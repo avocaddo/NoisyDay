@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoisyDay</string>
+    <string name="push_toast">Push:</string>
+</resources>
