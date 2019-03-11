@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         throw new NullPointerException();
     }
 
+    // example
     public void noise(View view) {
         startActivity(new Intent(this, NoiseActivity.class));
     }
